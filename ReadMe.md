@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech ICT Student at Marwadi University</h3>
 
 <p align="center">
-  Learning and practicing DSA while building practical development projects.
+Learning and practicing DSA while building practical development projects.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - B.Tech ICT student at Marwadi University
 - Learning and practicing Data Structures & Algorithms
 - Interested in development and problem solving
-- Building projects and exploring different areas of technology through hands-on learning
+- Building practical projects and exploring technology through hands-on learning
 - Interested in badminton and table tennis
 
 ---
@@ -76,12 +76,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aumdave1979&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=aumdave1979&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aumdave1979&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=aumdave1979&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumdave1979&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumdave1979&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -89,5 +94,7 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aumdave1979&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aumdave1979&theme=tokyonight&no-frame=true&margin-w=10"/>
+
 </p>
